@@ -9,6 +9,7 @@ eleventyNavigation:
 ---
 # Welcome
 
+There are three things you can do here: reading my blog, learn who I am and see some of my photographs. I invite you to do all three. But time is valuable so I figured it would make sense to have a navigation that represents these exact 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
 Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.

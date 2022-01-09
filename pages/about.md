@@ -1,5 +1,5 @@
 ---
-title: About us
+title: Hi!
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
@@ -7,27 +7,16 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+#### My name is Sebastian Anders and I am an interaction designer & photographer. Since 15 years I design how humans interact with their environment via digital products on desktop and mobile devices.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+Focus of my work has always been leveraging technology with design. Good design is simple and sustainable. It should be useful for humans and bring value to a product or an idea. It should not harm people in any way. 
 
-## Our services
+#### What I do
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I take a product, feature, or experience from ideation to production. This includes vision setting, designing solutions, prototyping, bringing along cross-functional teams, overseeing implementation, and collaborating with other designers, researchers, product managers, analysts, and engineers.
 
-### Blue-sky thinking
+#### Where I am from
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+In 1998 I created Website UIs, which later became our own Counter Strike clan website. A little later I earned a good amount of money in web adverstisement with animated Flash banner. This was insanely fun. Later I turned to the dark side and developed Dark Pattern UIs for several companies who wanted to have their conversion rate increased. I already knew very well how easy it was to manipulate people doing certain things. Just with the right interface. 
 
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+In 2004 I started my first 
